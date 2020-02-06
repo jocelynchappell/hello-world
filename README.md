@@ -1,2 +1,5 @@
 # hello-world
-reposittory for all my hello world programs
+_'hello world' programs_
+* hellow.cpp
+* hellow.c
+* hellow.py
