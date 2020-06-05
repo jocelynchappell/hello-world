@@ -5,3 +5,8 @@ _'hello world' programs_
 * hello.cpp
 * hello.py
 * hello.hs
+
+J E Chappell
+Head of Computer Science
+Aylesbury Grammar School
+http://twitter.com/AgsComputing
